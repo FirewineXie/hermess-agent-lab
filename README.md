@@ -44,5 +44,3 @@ main 分支受保护，**所有改动都通过 Pull Request 提交，不直接�
 
 - 问题与需求：GitHub Issues
 - 公众号：杰 AI SHIKER（实测过程与教程在这里发）
-
-<!-- PR 流程连通性测试 -->
